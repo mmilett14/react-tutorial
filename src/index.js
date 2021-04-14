@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <ul>
+    <li>aye</li>
+    <li>yo</li>
+    <li>bruh</li>
+  </ul>,
   document.getElementById('root')
 );
 
